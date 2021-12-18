@@ -2,7 +2,7 @@
 
 Hello world
 
-(abc) -> (c/d = abd) -> () -> () -> (HEAD/main)
-                        |
+(abc) -> (c/d) -> () -> () -> (HEAD/main)
+                     |
                         ->   (HEAD/newbranch)
-                        awfaf
+               
